@@ -175,7 +175,7 @@ users:
 ## Limitations (for now)
 
 * data-types that don't work.
-  * bytes
+  * Spatial
 * https is not yet supported, only http
 
 ## Limitations
